@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "sfdfdsf",
+    "coordinates": {
+      "x": 21,
+      "y": 123.0
+    },
+    "creationDate": "2024-05-06T20:58:28.843348900",
+    "health": 123,
+    "heartCount": 2,
+    "chapter": {
+      "name": "213",
+      "world": "213"
+    }
+  },
+  {
+    "id": 3,
+    "name": "ron",
+    "coordinates": {
+      "x": 20,
+      "y": 20.0
+    },
+    "creationDate": "2024-05-07T13:38:55.499300600",
+    "health": 20,
+    "heartCount": 2
+  },
+  {
+    "id": 4,
+    "name": "sfdfdsf",
+    "coordinates": {
+      "x": 21,
+      "y": 123.0
+    },
+    "creationDate": "2024-05-07T15:32:27.636025",
+    "health": 123,
+    "heartCount": 2,
+    "chapter": {
+      "name": "213",
+      "world": "213"
+    }
+  }
+]
